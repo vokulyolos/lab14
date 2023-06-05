@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPF_laba14.task3Slider"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_laba14"
+        mc:Ignorable="d"
+        Title="task3Slider" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="Типа слайдер" FontWeight="SemiBold" Margin="5,5,5,0" Background="SpringGreen"/>
+            <Slider x:Name="slider" Value="0" Minimum="0" Maximum="10" SelectionStart="0" Height="43" Width="760" Margin="10,5,5,5" IsSelectionRangeEnabled="True" ValueChanged="SliderValueChanged" HorizontalAlignment="Left" Background="RoyalBlue"/>
+        </StackPanel>
+
+        <Button Width="100" Height="270" Content="GO to HOME" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,144,0,0" FontWeight="SemiBold" Background="Crimson" Click="Exit"/>
+        <Button Width="100" Height="270" Content="№ 4" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,40,20" FontWeight="SemiBold" Background="MediumOrchid" Click="Task4"/>
+        <Button Width="100" Height="270" Content="№ 1-2" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="40,0,0,20" FontWeight="SemiBold" Background="Linen" Click="Task12"/>
+    </Grid>
+</Window>

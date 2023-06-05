@@ -1,0 +1,79 @@
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\WPF-laba14.exe
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\WPF-laba14.deps.json
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\WPF-laba14.runtimeconfig.json
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\WPF-laba14.runtimeconfig.dev.json
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\WPF-laba14.dll
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\ref\WPF-laba14.dll
+C:\Users\user.COMP-02\source\repos\WPF-laba14\bin\Debug\net5.0-windows\WPF-laba14.pdb
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14_MarkupCompile.cache
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14_MarkupCompile.lref
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.g.resources
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.AssemblyInfoInputs.cache
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.AssemblyInfo.cs
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.dll
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\ref\WPF-laba14.dll
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.pdb
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.genruntimeconfig.cache
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\task3Slider.g.cs
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\task3Slider.baml
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\task4Calendar.g.cs
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\task4Calendar.baml
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\WPF-laba14.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\WPF-laba14\obj\Debug\net5.0-windows\task5Canvas.g.cs
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\WPF-laba14.exe
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\WPF-laba14.deps.json
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\WPF-laba14.runtimeconfig.json
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\WPF-laba14.runtimeconfig.dev.json
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\ref\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\bin\Debug\net5.0-windows\WPF-laba14.pdb
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\task3Slider.g.cs
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\task4Calendar.g.cs
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14_MarkupCompile.cache
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14_MarkupCompile.lref
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\task3Slider.baml
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\task4Calendar.baml
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.g.resources
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.AssemblyInfoInputs.cache
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.AssemblyInfo.cs
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\ref\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.pdb
+C:\Users\user.COMP-02\Desktop\WPF-laba-14-master\obj\Debug\net5.0-windows\WPF-laba14.genruntimeconfig.cache
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\WPF-laba14.exe
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\WPF-laba14.deps.json
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\WPF-laba14.runtimeconfig.json
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\WPF-laba14.runtimeconfig.dev.json
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\ref\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\14 FULL\bin\Debug\net5.0-windows\WPF-laba14.pdb
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\task3Slider.g.cs
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\task4Calendar.g.cs
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14_MarkupCompile.cache
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14_MarkupCompile.lref
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\task3Slider.baml
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\task4Calendar.baml
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.g.resources
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.AssemblyInfoInputs.cache
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.AssemblyInfo.cs
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\ref\WPF-laba14.dll
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.pdb
+C:\Users\user.COMP-02\Desktop\14 FULL\obj\Debug\net5.0-windows\WPF-laba14.genruntimeconfig.cache
